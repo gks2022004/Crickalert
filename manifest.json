@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Crickalert",
+    "version": "1.0",
+    "description": "It shows the scores of ongoing matches",
+    "author": "Gaurav Kumar",
+    "permissions": [
+      "activeTab"
+    ],
+    "browser_action": {
+      "default_popup": "main.html"
+    },
+    "icons": {
+        "16": "icon.png"
+    }
+    
+  }
